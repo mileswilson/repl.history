@@ -10,7 +10,7 @@
       "url": "https://github.com/scttnlsn"
     }
   ],
-  "name": "repl.history",
+  "name": "repl.local.history",
   "description": "add local history to node's repl",
   "license": "MIT",
   "version": "1.0.0",
@@ -21,6 +21,6 @@
   "dependencies": {},
   "devDependencies": {},
   "bin": {
-    "repl.history": "./bin/repl.history"
+    "repl.local.history": "./bin/repl.history"
   }
 }
